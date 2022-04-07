@@ -1,7 +1,7 @@
 # Railstutorial - Hello App
 Project from https://www.railstutorial.org/book
 
-Deployed to https://erikw-railstut-toy-app.herokuapp.com/
+Deployed to https://erikw-railstut-hello-world.herokuapp.com/
 
 ## Other projects
 See other projects from the book:
